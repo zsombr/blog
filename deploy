@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=eskere
+HOST=107.173.51.120
+DIR=/var/www/html/  # This is where your website files go on the server
+
+hugo --config hugo.toml && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}  # Syncs the files to the server
+
+exit 0
