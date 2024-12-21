@@ -35,7 +35,7 @@ title = "zsom.me"
   """
 
   description = "Blogging until I'm a senior dev"
-  footer = "Made with [HUGO](https://gohugo.io/) and [GOKARNA](https://github.com/gokarna-theme/gokarna-hugo) theme"
+  footer = "[HUGO](https://gohugo.io/)"
   metaKeywords = ["blog", "gokarna", "hugo"]
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
