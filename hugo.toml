@@ -40,7 +40,7 @@ title = "zsom.me"
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
   socialIcons = [
-    {name = "linkedin", url = "https://linkedin.com"}
+    {name = "linkedin", url = "https://www.linkedin.com/in/zsomborpalfi"}
   ]
 
 [menu]
@@ -71,7 +71,7 @@ title = "zsom.me"
   [[menu.main]]
     name = "Github"
     pre = "<span data-feather='git-pull-request'></span>"
-    url = "https://git.zsom.me/"
+    url = "https://github.com/zsombr"
     weight = 5
 
 
