@@ -1,7 +1,7 @@
 ---
 title: "Lorem Ipsum"
 date: 2024-11-13
-tags: ["xyz", "def", "asd", "Java"]
+tags: ["xyz", "def", "asd", "Java", "test"]
 type: "post"
 image: "/images/lorem-ipsum/quick-fox.png"
 showTableOfContents: true
