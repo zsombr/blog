@@ -40,7 +40,7 @@ title = "zsom.me"
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
   socialIcons = [
-    {name = "linkedin", url = "https://example.com"}
+    {name = "linkedin", url = "https://linkedin.com"}
   ]
 
 [menu]
