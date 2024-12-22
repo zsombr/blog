@@ -11,7 +11,7 @@ title = "zsom.me"
 [params]
   avatarAltText = "pfp"
   avatarSize = "size-xs"
-  avatarURL = "/images/pfp.jpg"
+  avatarURL = "https://i.ibb.co/1XB2Lyk/pfp.jpg"
 
   customHeadHTML = """
     <!-- KaTeX -->
